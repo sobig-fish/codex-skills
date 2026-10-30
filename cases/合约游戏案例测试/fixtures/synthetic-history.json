@@ -1,0 +1,348 @@
+{
+  "synthetic": true,
+  "generation": "38 weeks from 2026-01-05; total=(index*7+floor(index/5))%11; no real data",
+  "history": [
+    {
+      "weekStart": "2026-01-05",
+      "total": 0,
+      "monday": 0,
+      "wednesday": 0,
+      "other": 0,
+      "confirmed": true,
+      "source": "synthetic-formula-v1"
+    },
+    {
+      "weekStart": "2026-01-12",
+      "total": 7,
+      "monday": 3,
+      "wednesday": 4,
+      "other": 0,
+      "confirmed": true,
+      "source": "synthetic-formula-v1"
+    },
+    {
+      "weekStart": "2026-01-19",
+      "total": 3,
+      "monday": 1,
+      "wednesday": 2,
+      "other": 0,
+      "confirmed": true,
+      "source": "synthetic-formula-v1"
+    },
+    {
+      "weekStart": "2026-01-26",
+      "total": 10,
+      "monday": 5,
+      "wednesday": 5,
+      "other": 0,
+      "confirmed": true,
+      "source": "synthetic-formula-v1"
+    },
+    {
+      "weekStart": "2026-02-02",
+      "total": 6,
+      "monday": 3,
+      "wednesday": 3,
+      "other": 0,
+      "confirmed": true,
+      "source": "synthetic-formula-v1"
+    },
+    {
+      "weekStart": "2026-02-09",
+      "total": 3,
+      "monday": 1,
+      "wednesday": 2,
+      "other": 0,
+      "confirmed": true,
+      "source": "synthetic-formula-v1"
+    },
+    {
+      "weekStart": "2026-02-16",
+      "total": 10,
+      "monday": 5,
+      "wednesday": 5,
+      "other": 0,
+      "confirmed": true,
+      "source": "synthetic-formula-v1"
+    },
+    {
+      "weekStart": "2026-02-23",
+      "total": 6,
+      "monday": 3,
+      "wednesday": 3,
+      "other": 0,
+      "confirmed": true,
+      "source": "synthetic-formula-v1"
+    },
+    {
+      "weekStart": "2026-03-02",
+      "total": 2,
+      "monday": 1,
+      "wednesday": 1,
+      "other": 0,
+      "confirmed": true,
+      "source": "synthetic-formula-v1"
+    },
+    {
+      "weekStart": "2026-03-09",
+      "total": 9,
+      "monday": 4,
+      "wednesday": 5,
+      "other": 0,
+      "confirmed": true,
+      "source": "synthetic-formula-v1"
+    },
+    {
+      "weekStart": "2026-03-16",
+      "total": 6,
+      "monday": 3,
+      "wednesday": 3,
+      "other": 0,
+      "confirmed": true,
+      "source": "synthetic-formula-v1"
+    },
+    {
+      "weekStart": "2026-03-23",
+      "total": 2,
+      "monday": 1,
+      "wednesday": 1,
+      "other": 0,
+      "confirmed": true,
+      "source": "synthetic-formula-v1"
+    },
+    {
+      "weekStart": "2026-03-30",
+      "total": 9,
+      "monday": 4,
+      "wednesday": 5,
+      "other": 0,
+      "confirmed": true,
+      "source": "synthetic-formula-v1"
+    },
+    {
+      "weekStart": "2026-04-06",
+      "total": 5,
+      "monday": 2,
+      "wednesday": 3,
+      "other": 0,
+      "confirmed": true,
+      "source": "synthetic-formula-v1"
+    },
+    {
+      "weekStart": "2026-04-13",
+      "total": 1,
+      "monday": 0,
+      "wednesday": 1,
+      "other": 0,
+      "confirmed": true,
+      "source": "synthetic-formula-v1"
+    },
+    {
+      "weekStart": "2026-04-20",
+      "total": 9,
+      "monday": 4,
+      "wednesday": 5,
+      "other": 0,
+      "confirmed": true,
+      "source": "synthetic-formula-v1"
+    },
+    {
+      "weekStart": "2026-04-27",
+      "total": 5,
+      "monday": 2,
+      "wednesday": 3,
+      "other": 0,
+      "confirmed": true,
+      "source": "synthetic-formula-v1"
+    },
+    {
+      "weekStart": "2026-05-04",
+      "total": 1,
+      "monday": 0,
+      "wednesday": 1,
+      "other": 0,
+      "confirmed": true,
+      "source": "synthetic-formula-v1"
+    },
+    {
+      "weekStart": "2026-05-11",
+      "total": 8,
+      "monday": 4,
+      "wednesday": 4,
+      "other": 0,
+      "confirmed": true,
+      "source": "synthetic-formula-v1"
+    },
+    {
+      "weekStart": "2026-05-18",
+      "total": 4,
+      "monday": 2,
+      "wednesday": 2,
+      "other": 0,
+      "confirmed": true,
+      "source": "synthetic-formula-v1"
+    },
+    {
+      "weekStart": "2026-05-25",
+      "total": 1,
+      "monday": 0,
+      "wednesday": 1,
+      "other": 0,
+      "confirmed": true,
+      "source": "synthetic-formula-v1"
+    },
+    {
+      "weekStart": "2026-06-01",
+      "total": 8,
+      "monday": 4,
+      "wednesday": 4,
+      "other": 0,
+      "confirmed": true,
+      "source": "synthetic-formula-v1"
+    },
+    {
+      "weekStart": "2026-06-08",
+      "total": 4,
+      "monday": 2,
+      "wednesday": 2,
+      "other": 0,
+      "confirmed": true,
+      "source": "synthetic-formula-v1"
+    },
+    {
+      "weekStart": "2026-06-15",
+      "total": 0,
+      "monday": 0,
+      "wednesday": 0,
+      "other": 0,
+      "confirmed": true,
+      "source": "synthetic-formula-v1"
+    },
+    {
+      "weekStart": "2026-06-22",
+      "total": 7,
+      "monday": 3,
+      "wednesday": 4,
+      "other": 0,
+      "confirmed": true,
+      "source": "synthetic-formula-v1"
+    },
+    {
+      "weekStart": "2026-06-29",
+      "total": 4,
+      "monday": 2,
+      "wednesday": 2,
+      "other": 0,
+      "confirmed": true,
+      "source": "synthetic-formula-v1"
+    },
+    {
+      "weekStart": "2026-07-06",
+      "total": 0,
+      "monday": 0,
+      "wednesday": 0,
+      "other": 0,
+      "confirmed": true,
+      "source": "synthetic-formula-v1"
+    },
+    {
+      "weekStart": "2026-07-13",
+      "total": 7,
+      "monday": 3,
+      "wednesday": 4,
+      "other": 0,
+      "confirmed": true,
+      "source": "synthetic-formula-v1"
+    },
+    {
+      "weekStart": "2026-07-20",
+      "total": 3,
+      "monday": 1,
+      "wednesday": 2,
+      "other": 0,
+      "confirmed": true,
+      "source": "synthetic-formula-v1"
+    },
+    {
+      "weekStart": "2026-07-27",
+      "total": 10,
+      "monday": 5,
+      "wednesday": 5,
+      "other": 0,
+      "confirmed": true,
+      "source": "synthetic-formula-v1"
+    },
+    {
+      "weekStart": "2026-08-03",
+      "total": 7,
+      "monday": 3,
+      "wednesday": 4,
+      "other": 0,
+      "confirmed": true,
+      "source": "synthetic-formula-v1"
+    },
+    {
+      "weekStart": "2026-08-10",
+      "total": 3,
+      "monday": 1,
+      "wednesday": 2,
+      "other": 0,
+      "confirmed": true,
+      "source": "synthetic-formula-v1"
+    },
+    {
+      "weekStart": "2026-08-17",
+      "total": 10,
+      "monday": 5,
+      "wednesday": 5,
+      "other": 0,
+      "confirmed": true,
+      "source": "synthetic-formula-v1"
+    },
+    {
+      "weekStart": "2026-08-24",
+      "total": 6,
+      "monday": 3,
+      "wednesday": 3,
+      "other": 0,
+      "confirmed": true,
+      "source": "synthetic-formula-v1"
+    },
+    {
+      "weekStart": "2026-08-31",
+      "total": 2,
+      "monday": 1,
+      "wednesday": 1,
+      "other": 0,
+      "confirmed": true,
+      "source": "synthetic-formula-v1"
+    },
+    {
+      "weekStart": "2026-09-07",
+      "total": 10,
+      "monday": 5,
+      "wednesday": 5,
+      "other": 0,
+      "confirmed": true,
+      "source": "synthetic-formula-v1"
+    },
+    {
+      "weekStart": "2026-09-14",
+      "total": 6,
+      "monday": 3,
+      "wednesday": 3,
+      "other": 0,
+      "confirmed": true,
+      "source": "synthetic-formula-v1"
+    },
+    {
+      "weekStart": "2026-09-21",
+      "total": 2,
+      "monday": 1,
+      "wednesday": 1,
+      "other": 0,
+      "confirmed": true,
+      "source": "synthetic-formula-v1"
+    }
+  ]
+}

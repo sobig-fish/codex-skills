@@ -1,0 +1,13 @@
+{
+  "name": "codex-skills-case-studies",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.18.0"
+  },
+  "scripts": {
+    "test": "node scripts/check.mjs",
+    "check:publication": "node scripts/check-publication.mjs",
+    "demo:contract": "node --experimental-strip-types cases/合约游戏案例测试/demo.mjs"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "workspace-team-policy-example",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22.18.0" },
+  "scripts": {
+    "demo": "node example/demo.mjs",
+    "test": "node --test tests/policy.test.mjs"
+  }
+}
